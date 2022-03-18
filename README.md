@@ -11,3 +11,5 @@ Create a chess board using HTML, CSS and Vanilla Javascript, where if you click 
 ![](./images/2.png)
 
 **Chess Board:** It is a square form board in which there are equal rows and columns (8x8) with alternate intersections marked as black background.
+
+View it live on: https://arsalankhan19.github.io/chess-board/
